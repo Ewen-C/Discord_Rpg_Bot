@@ -119,7 +119,7 @@ async def add_experience(users_json, user, xp_amount, channel):
     await channel.send(f"{user.mention} est monté au niveau {lvl_end} !")
 
 
-bot.run("ODUxODIyODYzNjQ0MDk4NTgw.YL933A.KzP-M1aNQCmSdaEy7xxTapO-vF8") # Connexion avec le Token
+bot.run("Token")
 
 # Afficher les informations dans des embed
 
